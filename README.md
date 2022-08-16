@@ -10,17 +10,15 @@
 
 ## Overview
 
-A CRUD app made with create react app and react hooks
+A carousel app made with create react app and react hooks
 
 ### Screenshot
 
-![Main page](./src/images/tours.png)
-![Read more/show less functionality](./src/images/tours-readmore.png)
-![All tours deleted](./src/images/tours-deleted.png)
+![Main page](./src/reviewsss.png)
 
 ### Links
 
-- Live Site URL: [Deployed with netlify](https://fascinating-piroshki-40ca46.netlify.app/)
+- Live Site URL: [Deployed with netlify](https://eclectic-dolphin-f504ee.netlify.app/)
 
 ## My process
 
